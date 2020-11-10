@@ -15,3 +15,5 @@ The extreme nature of *The Last of Us Part II*'s reception by fans (and, to a le
 Using automated data collection scripts as well as a limited amount of manual data collection in specialized cases (such as identifying the aforementioed "thinkpieces"), I seek to obtain corpuses of both **user reviews** and **professional reviews** of video games. To limit the scope of the project, I intend initially to focus on action-adventure Playstation 4 exclusives, starting with a compare-and-contrast of *The Last of Us Part II* and *Ghost of Tsushima*. 
 
 Using NLTK if possible and Tensorflow if necessary (due to the sheer size of the review corpuses), I intend to create word vector and similarity models of cleaned data and determine themes present in reviews. Utilizing a Neo4J database storage model, I will model relations of positive and negative reviews, initially using the 0-10 "metascore" awarded by users in the case of user reviews, and eventually broadening to 
+
+# work in progress! Extraction and analysis scripts to be posted as they become available! - Ellie November 10, 2020
